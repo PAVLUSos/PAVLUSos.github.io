@@ -1590,7 +1590,6 @@
   margin-top: 63px;
   margin-bottom: 60px;
   min-height: 438px;
-  height: auto;
 }
 
 .u-section-14 .u-carousel-indicators-1 {
@@ -1657,6 +1656,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-14 .u-slider-1 {
+    height: auto;
+  }
+
   .u-section-14 .u-text-1 {
     width: auto;
     margin-left: 312px;
