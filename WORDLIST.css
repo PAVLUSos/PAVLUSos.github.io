@@ -9,6 +9,7 @@
 .u-section-1 .u-text-1 {
   font-size: 6rem;
   background-image: none;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   margin: 40px auto 0;
 }
 
@@ -45,6 +46,7 @@
   font-weight: 700;
   font-size: 3.76471rem;
   width: 803px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
   margin: 20px auto 0;
 }
 
