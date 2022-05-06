@@ -39,7 +39,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 430px;
+  min-height: 8810px;
 }
 
 .u-section-2 .u-text-1 {
@@ -52,9 +52,9 @@
 
 .u-section-2 .u-text-2 {
   font-size: 1.23529rem;
-  width: 803px;
   font-weight: 700;
-  margin: 8px auto 60px;
+  width: 803px;
+  margin: 7px auto 60px;
 }
 
 @media (max-width: 991px) {
